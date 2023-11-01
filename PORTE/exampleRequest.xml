@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Req>
+		<UniqueId>028823B89829</UniqueId>
+		<Institution>
+			<Code>POSTE_CHATELET</Code>
+		</Institution>
+		<Plage>
+			<Jour>2000-02-03</Jour>
+			<Horaire>23:10</Horaire>
+		</Plage>
+	</Req>
+</Document>
